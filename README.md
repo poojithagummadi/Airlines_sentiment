@@ -18,10 +18,11 @@ This project focuses on:
  
 
 pip install -r requirements.txt
-4️⃣ Run the Streamlit app
+ Run the Streamlit app
 
 streamlit run app.py
-5️⃣ Open in browser
+Open in browser
+
 Once Streamlit starts, open the provided local URL (default: http://localhost:8501) in your web browser.
 Here’s how the **Airline Tweet Sentiment Classifier** looks in action:
 <img width="1920" height="900" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/335e1cc0-ed01-4e05-b15a-6b3bc02acb34" />
