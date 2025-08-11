@@ -28,3 +28,4 @@ Here’s how the **Airline Tweet Sentiment Classifier** looks in action:
 
 <img width="1920" height="897" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/e055b934-cf85-4ee8-9f50-6f6ad74071b9" />
 
+<img width="1920" height="898" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/c1bc3143-cbef-42e6-a8ba-bb974076c7ee" />
