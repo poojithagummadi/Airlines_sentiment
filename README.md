@@ -15,9 +15,16 @@ This project focuses on:
 - **Pre-trained Model Integration** – Uses the powerful RoBERTa-based model from Hugging Face.
 - **Simple & Intuitive UI** – Built with Streamlit for easy interaction.
 - **Lightweight Deployment** – Can run locally or be hosted on Streamlit Cloud/Hugging Face Spaces.
-
-  Here’s how the **Airline Tweet Sentiment Classifier** looks in action:
  
-<img width="1920" height="1080" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/56d244f2-d7e7-4645-b103-5dd2869de8c4" />
-<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/974d48e6-51e4-4a4d-b454-e4cf450a9786" />
-<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/08b649bf-a1a9-4d3c-bf75-5c9b524d1f2f" />
+
+pip install -r requirements.txt
+4️⃣ Run the Streamlit app
+
+streamlit run app.py
+5️⃣ Open in browser
+Once Streamlit starts, open the provided local URL (default: http://localhost:8501) in your web browser.
+Here’s how the **Airline Tweet Sentiment Classifier** looks in action:
+<img width="1920" height="900" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/335e1cc0-ed01-4e05-b15a-6b3bc02acb34" />
+
+<img width="1920" height="897" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/e055b934-cf85-4ee8-9f50-6f6ad74071b9" />
+
